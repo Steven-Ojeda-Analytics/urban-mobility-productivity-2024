@@ -92,4 +92,4 @@ urban-mobility-productivity-2024/
 ## 👤 Author
 **Steven Ojeda**  
 Data Analyst | Urban Mobility & Economic Analysis  
-🔗 LinkedIn: (lo agregamos después si quieres)
+🔗 LinkedIn: https://www.linkedin.com/in/steven-ojedac/
